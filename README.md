@@ -8,4 +8,4 @@
   GBDT大概在数据挖掘里面是个王者地位，尝试将这种线性项相减会获得比较好的决策面。
 
 #### 例子，如下图：
-[!image](pic/demo.png)
+<div align=center><img src="https://raw.githubusercontent.com/707043502/verify/master/pic/demo.png" width="150" height="200" alt="图片描述文字"/></div>
