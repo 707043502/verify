@@ -5,7 +5,7 @@
   
   上述逻辑在数据挖掘中可以体现为，（个体观测量-平均观测量）= b（显著）
 #### 规避
-  GBDT大概在数据挖掘里面是个王者地位，尝试将这种线性项相减会获得比较好的决策面。
+  GBDT大概在数据挖掘里面很有用，尝试将这种线性项相减会获得比较好的决策面。
 
 #### 例子，如下图：
 <div align=center><img src="https://raw.githubusercontent.com/707043502/verify/master/pic/demo.png" width="150" height="200" alt="图片描述文字"/></div>
