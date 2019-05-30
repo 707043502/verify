@@ -7,5 +7,8 @@
 #### 规避
   GBDT大概在数据挖掘里面很有用，尝试将这种线性项相减会获得比较好的决策面。
 
+`可以看到，原先像是被咬过的斜决策面，最后和恢复回来的决策面区别还是挺大的`
+`所以数据少的时候，还是尽量不要去拟合带有斜线的逻辑`
+
 #### 例子，如下图：
 <div align=center><img src="https://raw.githubusercontent.com/707043502/verify/master/pic/demo.png" width="150" height="200" alt="图片描述文字"/></div>
